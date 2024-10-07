@@ -1,0 +1,20 @@
+FileSystem:
+  - Assets
+  - Assets/Audio
+  - Assets/Characters
+  - Assets/Environments
+  - Assets/Player
+  - Assets/UserInterface
+  - Scenes
+  - Scenes/Characters
+  - Scenes/Environment
+  - Scenes/Player
+  - Scenes/UserInterface
+  - Scenes/Prototypes
+  - docs
+  - Systems
+  - Systems/Foundation
+  - Systems/Player
+  - Systems/Environment
+  - Systems/Prototypes
+  - Systems/UserInterface
